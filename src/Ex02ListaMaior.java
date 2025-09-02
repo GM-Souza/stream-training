@@ -13,7 +13,7 @@ public class Ex02ListaMaior {
                 .mapToDouble(Double::doubleValue)
                 .max().orElse(0);
 
-        System.out.println(maiorValor);
+        System.out.println("Maior valor: "+maiorValor);
 
 
 
