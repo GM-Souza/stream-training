@@ -1,4 +1,4 @@
-/*
+package lista01;/*
 Dada uma lista de valores de depósito (tipo double),
 determine o maior valor absoluto.
  */

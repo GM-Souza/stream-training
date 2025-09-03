@@ -1,3 +1,5 @@
+package lista01;
+
 import java.util.List;
 
 public class Ex03SaldoNegativo {

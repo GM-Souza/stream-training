@@ -1,4 +1,4 @@
-/*
+package lista01;/*
 Dada uma lista de valores (tipos double) em uma única classe,
  calcule a soma de todos os valores que excedem R$ 5.000,00.
  */

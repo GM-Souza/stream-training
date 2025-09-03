@@ -1,4 +1,4 @@
-/*
+package lista01;/*
 Calcule a média de todos os saldos fornecidos. Se a lista estiver vazia, o resultado deve ser 0.
  */
 import java.util.List;

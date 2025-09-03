@@ -1,4 +1,4 @@
-/*
+package lista01;/*
 Conte quantos valores em uma lista são maiores que R$ 1.000,00.
  */
 
